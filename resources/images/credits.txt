@@ -1,0 +1,11 @@
+SettingsBackground, MasterVolumeContainer.png, Button.png and colored parallelogram buttons, Back Icon (used in back.png), Background.jpg (Other background images are edited from the works of the author)
+
+Author: Lynda Mc Donald
+Url: https://loudeyes.itch.io/dating-sim-ui-pack
+
+
+Icons in exit.png, exit2.png, home.png, leaderboard.png, save.png, settings.png, reset.png 
+
+Author: Kenney Vleugels
+License: CC0
+Url: https://kenney.nl/assets/game-icons
